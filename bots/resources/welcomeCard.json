@@ -1,0 +1,31 @@
+{
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "type": "AdaptiveCard",
+  "version": "1.0",
+  "body": [
+    {
+      "type": "Image",
+      "url": "https://media.istockphoto.com/id/485509245/fr/photo/concept-de-vacances-tropicales.jpg?s=612x612&w=0&k=20&c=DeCSK2FIBlIboVczlmMMUjJPdyw-R8885Gg3IkoBOm8=",
+      "size": "stretch"
+    },
+    {
+      "type": "TextBlock",
+      "spacing": "medium",
+      "size": "default",
+      "weight": "bolder",
+      "text": "Welcome to FLY ME!",
+      "wrap": true,
+      "maxLines": 0
+    },
+    {
+      "type": "TextBlock",
+      "size": "default",
+      "isSubtle": "true",
+      "text": "This robot will help you book your trip.",
+      "wrap": true,
+      "maxLines": 0
+    }
+  ]
+  
+  
+}
